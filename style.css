@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Dancing Script', cursive;
+	background: #80d0c7;	
+}
+h1{
+	font-size: 300px;
+	text-transform: uppercase;
+	font-weight: 900;
+	letter-spacing: 50px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	margin: 0;
+	background: url(/bg.jpg);
+	background-size: cover;
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+
+}
